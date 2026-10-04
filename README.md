@@ -54,7 +54,8 @@ To use your own graph, edit the edge list in `build_graph()`. The exact algorith
 
 ## Output
 
-![Output](graph_coloring_output.png)
+<img width="842" height="616" alt="image" src="https://github.com/user-attachments/assets/f38c2d2b-48b9-449b-adb2-727cdac46588" />
+
 
 ## Concepts covered
 
